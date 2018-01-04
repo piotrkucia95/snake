@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Snake</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/GameOver.wav</name>
+			<type>1</type>
+			<location>/home/pkucia/eclipse-workspace/Snake/GameOver.wav</location>
+		</link>
+		<link>
+			<name>src/MarioMusic.wav</name>
+			<type>1</type>
+			<location>/home/pkucia/eclipse-workspace/Snake/MarioMusic.wav</location>
+		</link>
+		<link>
+			<name>src/Point.wav</name>
+			<type>1</type>
+			<location>/home/pkucia/eclipse-workspace/Snake/Point.wav</location>
+		</link>
+	</linkedResources>
+</projectDescription>
