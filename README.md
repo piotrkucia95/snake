@@ -11,7 +11,7 @@ Prosta gra typu SNAKE. Jeden z moich pierwszych programów napisanych w Javie. P
 ---
 
 ENG: <br />
-A simple SNAKE game. One of my first Java program. I used youtube video tutorial made by Jaryt Bustart to create this program. The project is consisted of 5 classes: <br />
+A simple SNAKE game. One of my first Java programs. I used youtube video tutorial made by Jaryt Bustart to create this program. The project is consisted of 5 classes: <br />
 -MenuView - main panel, providing choosing difficulty level and starting the game, <br />
 - Snake - contains main mechanics of the game, the snake is an ArrayList of Point-type objects, containing a location of snake parts on the board, <br />
 - RenderPanel - responisble for graphical presentation of board, snake and 'fruits', <br />
