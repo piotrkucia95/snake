@@ -1,9 +1,9 @@
 PL: <br />
-Prosta gra typu SNAKE. Jeden z moich pierwszych programów napisanych w Javie. Przy pisaniu programu wspomagałem się youtubowym tutorialem autorstwa Jaryta Bustarta. Projekt złożony jest z pięiu klas: <br />
-⋅⋅* MenuView - główny panel, umożliwiający wybór poziomu trudności i rozpoczęcie gry, <br />
-⋅⋅* Snake - zawiera główną mechanikę rozgrywki, wąż jest listą objektów typu Point, przechowujących położenie każdej z części węża na planszy, <br />
-⋅⋅* RenderPanel - klasa odpowiedzialna za generowanie planszy oraz graficzną prezentację węża i 'owoców' na planszy, <br />
-⋅⋅* Sound - odpowiedzialna za wczytywanie plików dźwiękowych,<br />
+Prosta gra typu SNAKE. Jeden z moich pierwszych programów napisanych w Javie. Przy pisaniu programu wspomagałem się youtubowym tutorialem autorstwa Jaryta Bustarta. Projekt złożony jest z pięiu klas: <br /> 
+⋅⋅* MenuView - główny panel, umożliwiający wybór poziomu trudności i rozpoczęcie gry, <br /> 
+⋅⋅* Snake - zawiera główną mechanikę rozgrywki, wąż jest listą objektów typu Point, przechowujących położenie każdej z części węża na planszy, <br /> 
+⋅⋅* RenderPanel - klasa odpowiedzialna za generowanie planszy oraz graficzną prezentację węża i 'owoców' na planszy, <br /> 
+⋅⋅* Sound - odpowiedzialna za wczytywanie plików dźwiękowych,<br /> 
 ⋅⋅* Main - zawiera metodę main wywołującą konstruktor klasy MenuView, umożliwiający start programu. <br />
 
 [Link do tutoriala](https://www.youtube.com/watch?v=S_n3lryyGZM)
